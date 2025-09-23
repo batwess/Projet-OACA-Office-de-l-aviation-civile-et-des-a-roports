@@ -113,5 +113,21 @@ Dashboard Power BI d'analyse financière complète pour une compagnie aérienne 
 - **Outil de pilotage** pour les managers de sites
 
 
+# contexte du projet
+
+Ce dashboard a été conçu pour offrir une analyse complète du trafic aérien et des opérations aéroportuaires. Il permet de visualiser et d'étudier les comportements de vol, la répartition des passagers et les tendances des compagnies aériennes.
+
+#### **3. Dashboard Principal - Analyse des aéroports**
+![Dashboard Analyse Financière](Analyse_les_aéroports.png)
+
+#### Principales fonctionnalités ✨
+Vue d'ensemble des aéroports : 🗺️ Compare le nombre de vols et de passagers par aéroport (Tunis, Djerba, Monastir, etc.).
+
+#### Analyse temporelle : ⏰ Met en évidence les périodes de pointe et les tendances de mouvement de vol sur une base horaire.
+
+#### Segmentations clés : ✈️ Différencie les vols domestiques des vols internationaux et analyse la contribution des différentes compagnies aériennes.
+
+Cet outil est idéal pour obtenir des aperçus rapides sur les performances aéroportuaires et les dynamiques du trafic aérien.
+
 
 
