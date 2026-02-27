@@ -23,19 +23,29 @@ Airport sites : 8389
 
 
 Key Analyses:
+
 Top clients by revenue (Tunis Air, Transavia, Nouvelair, etc.)
+
 Revenue distribution by airport site
+
 Payment methods (cash, credit, AM)
+
 Performance by airline company
+
 
 2. Conclusion Dashboard - Trends and Perspectives
 ![Dashboard Tendances](conclusion.png)
 
 Advanced Analyses:
+
 Revenue evolution 2017-2020
+
 Freight volume by type
+
 Comparative performance by site code
+
 Air traffic indicators
+
 
 🏗️ Data Structure Analyzed
 Financial Metrics:
